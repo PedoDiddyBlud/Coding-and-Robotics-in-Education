@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm pneumonoultramicroscopicsilicovolcanoconiosis 
 👋</h1>
 
-<h3 align="center">A passionate [Your Role/Title, e.g. Student & Aspiring Developer] exploring code, robotics, and everything in between</h3>
+<h3 align="center">A passionate student exploring code, robotics, and everything in between</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Learning+Python+%F0%9F%90%8D;Building+Robots+%F0%9F%A4%96;Grade+9+Student+%F0%9F%93%9A;Always+Curious+%F0%9F%9A%80" alt="Typing SVG" />
