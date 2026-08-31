@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm pneumonoultramicroscopicsilicovolcanoconiosis 
+👋</h1>
 
 <h3 align="center">A passionate [Your Role/Title, e.g. Student & Aspiring Developer] exploring code, robotics, and everything in between</h3>
 
