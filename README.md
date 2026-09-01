@@ -21,7 +21,7 @@
 - 🔭 I'm currently learning **Python** and getting started with **Arduino**
 - 🌱 Working on small robotics + programming projects
 - 💡 Interested in how software and hardware come together
-- 📫 Reach me at: **youremail@example.com**
+- 📫 Reach me at: **didyblud67@gmail.com**
 - ⚡ Fun fact: [add something fun about yourself]
 
 ---
